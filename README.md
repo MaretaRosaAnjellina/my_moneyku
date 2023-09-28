@@ -1,4 +1,4 @@
-# my_cash_book
+# my_moneyku
 
 A new Flutter project.
 
